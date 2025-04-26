@@ -1,8 +1,8 @@
-## Segmentação de Clientes com RFM (Recência, Frequência e Monetário)
+# Segmentação de Clientes com RFM (Recência, Frequência e Monetário)
 
 Este projeto tem como objetivo aplicar análise RFM para segmentar clientes com base em seu comportamento de compra, utilizando Python e bibliotecas como `pandas`, `matplotlib` e `seaborn`.
 
-#### Objetivo
+## Objetivo
 
 Identificar diferentes perfis de clientes a partir de três variáveis principais:
 
@@ -10,7 +10,7 @@ Identificar diferentes perfis de clientes a partir de três variáveis principai
 * Frequência: número de compras realizadas
 * Monetário (Receita): valor total gasto
 
-#### Etapas do Projeto
+## Etapas do Projeto
 
 1. Carregamento e limpeza dos dados
 2. Cálculo das métricas RFM por cliente
@@ -19,7 +19,7 @@ Identificar diferentes perfis de clientes a partir de três variáveis principai
 5. Visualizações para análise de distribuição e insights
 6. Definição de estratégias por segmento
 
-#### Estratégias por Segmento
+## Estratégias por Segmento
 
 | Segmento | Estratégia |
 | -------- | ---------- |
@@ -28,7 +28,7 @@ Identificar diferentes perfis de clientes a partir de três variáveis principai
 | Business | Engajamento com promoções e incentivos à recompra |
 | Inativo | Reativação com cupons de retorno e campanhas específicas |
 
-#### 📁 Como Executar
+### 📁 Como Executar
 
 1. Clone este repositório:
 
@@ -51,7 +51,7 @@ jupyter notebook
 
 ```
 
-#### Projeto desenvolvido com apoio da Alura
+### Projeto desenvolvido com apoio da Alura
 
 Este projeto foi realizado como parte do conteúdo de formação da Alura, complementando os estudos com aplicação prática de técnicas de segmentação de clientes.
 
